@@ -1,5 +1,5 @@
 # mk-agent
-Demo code shwoing how to use functions, ReAct and agents
+Demo code showing how to use functions, ReAct and agents
 
 ## Setup
 Use [poetry](https://python-poetry.org/docs/) to set up the project.
